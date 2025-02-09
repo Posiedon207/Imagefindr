@@ -40,14 +40,4 @@
     <pre><code>const UNSPLASH_API_KEY = 'your_unsplash_api_key';
 const WEATHER_API_KEY = 'your_openweather_api_key';</code></pre>
     
-  <h2>🌍 Live Demo</h2>
-    <p><a href="#">Live Version</a> *(Add your deployment link here)*</p>
-    
-  <h2>📜 License</h2>
-    <p>This project is licensed under the MIT License - feel free to modify and share!</p>
-    
-  <hr>
-    <p>💡 <em>Suggestions & contributions are welcome! Feel free to open issues or submit pull requests.</em></p>
-</body>
-</html>
-
+  
